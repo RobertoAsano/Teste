@@ -1,6 +1,6 @@
 # Teste
 
-Este repositorio foi criado apenas para testar . . .
+Este repositório foi criado apenas para testar . . .
 
 Função densidade de probabilidade da <code>GEV</code> (<i> Generalized extreme value distribution </i>).
 
